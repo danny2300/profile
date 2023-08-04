@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-text-medium-semibold: Outfit;
+  --heading-medium: Kalam;
+
+  /* font sizes */
+  --body-text-large-size: 18px;
+  --body-text-medium-semibold-size: 16px;
+  --body-text-x-large-size: 20px;
+  --heading-medium-size: 48px;
+  --heading-small-size: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #001826;
+  --color-gray-200: #00131e;
+  --color-darkslategray: #334651;
+  --color-khaki-100: #fce99e;
+  --color-khaki-200: #fada5e;
+  --color-steelblue: #0077be;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-5xl: 24px;
+  --gap-5xs: 8px;
+  --gap-45xl: 64px;
+  --gap-13xl: 32px;
+  --gap-9xs: 4px;
+  --gap-11xs: 2px;
+
+  /* Paddings */
+  --padding-101xl: 120px;
+  --padding-5xs: 8px;
+  --padding-191xl: 210px;
+  --padding-18xl: 37px;
+  --padding-40xl: 59px;
+
+  /* border radiuses */
+  --br-base: 16px;
+
+  /* Effects */
+  --small-shadow: 0px -0.543455958366394px 20.33px rgba(0, 0, 0, 0.07);
+}
